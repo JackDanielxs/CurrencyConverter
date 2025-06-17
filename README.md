@@ -1,6 +1,6 @@
 # 💱 Currency Converter
 
-A simple and intuitive Currency Converter application that allows users to convert between different currencies in real-time.
+A simple and intuitive Currency Converter application that allows real-time conversions.
 
 ## 🌐 Features
 
