@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Currency Converter</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <h2>💱 Currency Converter</h2>
+
+    <input type="number" id="amount" placeholder="Amount" step="0.01" required>
+    <br><br>
+
+    From:
+    <select id="from"></select>
+    To:
+    <select id="to"></select>
+
+    <br><br>
+    <button onclick="convert()">Convert</button>
+
+    <h3 id="result"></h3>
+
+    <footer class="footer">
+        Made by <a href="https://github.com/JackDanielxs" target="_blank">JackDanielxs</a>
+    </footer>
+
+    <script src="static/script.js"></script>
+</body>
+</html>
