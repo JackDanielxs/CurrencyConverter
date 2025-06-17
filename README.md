@@ -18,10 +18,17 @@ A simple and intuitive Currency Converter application that allows users to conve
 </p>
 
 ## ***▶️ How to run***
-- Make sure Flask is installed:
+- Make sure Flask & requests are installed:
 ```bash
 pip install flask
+pip install flask requests
 ```
+
+- Replace 'key' with the key you got [here](https://www.exchangerate-api.com/)
+```bash
+API_KEY = "key" # Replace with your actual API key
+```
+
 - Then run the app:
 ```bash
 python app.py
