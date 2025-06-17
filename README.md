@@ -24,7 +24,7 @@ pip install flask
 pip install flask requests
 ```
 
-- Replace 'key' with the key you got [here](https://www.exchangerate-api.com/)
+- Replace "key" with the key you got [here](https://www.exchangerate-api.com/)
 ```bash
 API_KEY = "key" # Replace with your actual API key
 ```
