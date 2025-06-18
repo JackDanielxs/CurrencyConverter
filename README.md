@@ -18,6 +18,7 @@ A simple and intuitive Currency Converter application that allows real-time conv
 </p>
 
 ## ***▶️ How to run***
+- Clone this repo
 - Make sure Flask & requests are installed:
 ```bash
 pip install flask
