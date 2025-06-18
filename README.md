@@ -8,29 +8,39 @@ A simple and intuitive Currency Converter application that allows real-time conv
 - Live exchange rates powered by external APIs
 - Clean and responsive user interface
 - Accurate conversion calculations
+- Lightweight and easy to use
+
+## 🚧 Upcoming Features
+- Support for Cryptocurrency conversions
 
 ## ***🖥️ Languages & Tools used***
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,html,css,js" />
-  </a>
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=py,flask,html,css,js" /> </p>
 
 ## ***▶️ How to run***
-- Clone this repo
-- Make sure Flask & requests are installed:
+1. Clone the repository:
 ```bash
-pip install flask
+git clone https://github.com/your-username/currency-converter.git
+cd currency-converter
+```
+
+2. Install dependencies:
+```bash
 pip install flask requests
 ```
 
-- Replace "key" with the key you got [here](https://www.exchangerate-api.com/)
+3. Set up API key:
+- Get your free API key from [ExchangeRate API](https://www.exchangerate-api.com/)
+- Open app.py and replace:
 ```bash
-API_KEY = "key" # Replace with your actual API key
+API_KEY = "key"  # 🔑 Replace with your actual API key
 ```
 
-- Then run the app:
+4. Run the app:
 ```bash
 python app.py
+```
+5. Open your browser and go to:
+```bash
+http://127.0.0.1:5000/
 ```
