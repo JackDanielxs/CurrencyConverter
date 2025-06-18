@@ -20,8 +20,7 @@ A simple and intuitive Currency Converter application that allows real-time conv
 ## ***▶️ How to run***
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/currency-converter.git
-cd currency-converter
+git clone https://github.com/JackDanielxs/CurrencyConverter.git
 ```
 
 2. Install dependencies:
@@ -40,6 +39,7 @@ API_KEY = "key"  # 🔑 Replace with your actual API key
 ```bash
 python app.py
 ```
+
 5. Open your browser and go to:
 ```bash
 http://127.0.0.1:5000/
