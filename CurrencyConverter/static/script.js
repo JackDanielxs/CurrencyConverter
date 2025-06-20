@@ -1,3 +1,4 @@
+// Supported currencies (will try to import directly from the provider later)
 const currencies = [
     { code: "USD", name: "United States Dollar" },
     { code: "EUR", name: "Euro" },
@@ -49,7 +50,7 @@ function populateSelect(selectId) {
     });
 }
 
-// setting selects through js
+// Setting selects through js
 populateSelect("from"); 
 populateSelect("to");
 
