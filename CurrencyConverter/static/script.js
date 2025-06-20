@@ -49,11 +49,11 @@ function populateSelect(selectId) {
     });
 }
 
-populateSelect("from");
+// setting selects through js
+populateSelect("from"); 
 populateSelect("to");
 
 async function convert() {
-    debugger;
     const amount = document.getElementById("amount").value;
     const from = document.getElementById("from").value;
     const to = document.getElementById("to").value;
