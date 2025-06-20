@@ -2,7 +2,7 @@
 
 A simple and intuitive Currency Converter application that allows real-time conversions.
 
-## 🌐 Features
+## ***🌐 Features***
 
 - Convert between major world currencies
 - Live exchange rates powered by external APIs
@@ -10,7 +10,7 @@ A simple and intuitive Currency Converter application that allows real-time conv
 - Accurate conversion calculations
 - Lightweight and easy to use
 
-## 🚧 Upcoming Features
+## ***🚧 Upcoming Features***
 - Support for Cryptocurrency conversions
 
 ## ***🖥️ Languages & Tools used***
