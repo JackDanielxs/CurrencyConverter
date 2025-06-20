@@ -12,13 +12,13 @@ def convert():
     from_currency = request.args.get("from")
     to_currency = request.args.get("to")
 
-    url = f"{API_URL}/{API_KEY}/pair/{from_currency}/{to_currency}"
-    response = requests.get(url)
+    url = f"{API_URL}/{API_KEY}/pair/{from_currency}/{to_currency}" # Setting request params
+    response = requests.get(url) # Making request
 
     if response.status_code == 200:
         data = response.json()
         rate = data["conversion_rate"]
-        result = round(amount * rate, 2)
+        result = round(amount * rate, 2) # Stops after 2 decimals (cents)
         return jsonify({
             "result": result,
             "rate": rate
