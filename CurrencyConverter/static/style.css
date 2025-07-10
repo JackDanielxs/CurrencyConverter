@@ -18,7 +18,7 @@ h2 {
 input[type="number"], select {
     width: 100%;
     padding: 10px;
-    margin: 8px 0 16px 0;
+    margin: 8px 0 16px;
     background-color: #1e1e1e;
     border: 1px solid #333;
     border-radius: 4px;
