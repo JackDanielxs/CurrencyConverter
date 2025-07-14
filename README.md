@@ -15,7 +15,7 @@ A simple and intuitive Currency Converter application that allows real-time conv
 
 ## ***🖥️ Languages & Tools used***
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=py,flask,html,css,js" /> </p>
+<p align="left"> <img src="https://skills.syvixor.com/api/icons?i=python,flask,html,css,javascript" /> </p>
 
 ## ***▶️ How to run***
 1. Clone the repository:
