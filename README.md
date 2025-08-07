@@ -13,7 +13,7 @@ A simple and intuitive Currency Converter application that allows real-time conv
 ## ***🚧 Upcoming Features***
 - Support for Cryptocurrency conversions
 
-## ***🖥️ Languages & Tools used***
+## ***🖥️ Technologies Used***
 
 <p align="left"> <img src="https://skills.syvixor.com/api/icons?i=python,flask,html,css,javascript" /> </p>
 
